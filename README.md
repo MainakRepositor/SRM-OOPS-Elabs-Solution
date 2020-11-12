@@ -71,3 +71,20 @@
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Savings.cpp">Savings</a></li>
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Travel.cpp">Travel</a></li>
   </ol>
+
+<hr>
+
+### Inheritence
+
+<ol>
+  <li><a href="">Bio</a></li>
+  <li><a href="">Examination</a></li>
+  <li><a href="">Fr</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ol>
