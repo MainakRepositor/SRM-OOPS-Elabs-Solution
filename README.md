@@ -63,11 +63,11 @@
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Compare%20Distances.cpp">Compare Distances</a></li>
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Concatenate.cpp">Concatenate</a></li>
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Copy.cpp">Copy</a></li>
-  <li><a href="https://raw.github.com/MainakRepositor/SRM-OOPS-Elabs-Solution/blob/master/4.Operator%20Overloading/Decimal%20Decrement.cpp">Decimal Decrement</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Decimal%20Decrement.cpp">Decimal Decrement</a></li>
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Decimal%20Increment.cpp">Decimal Increment</a></li>
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Light%20House.cpp">Light House</a></li>
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Play%20with%20Fraction.cpp">Play with Fractions</a></li>
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Prefix%20Increment.cpp">Prefix Increment</a></li>
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Savings.cpp">Savings</a></li>
-  <li><a href="https://raw.github.com/MainakRepositor/SRM-OOPS-Elabs-Solution/blob/master/4.Operator%20Overloading/Travel.cpp">Travel</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/4.Operator%20Overloading/Travel.cpp">Travel</a></li>
   </ol>
