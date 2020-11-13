@@ -79,12 +79,12 @@
 <ol>
   <li><a href="">Bio</a></li>
   <li><a href="">Examination</a></li>
-  <li><a href="">Fr</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="">Friends in maths tuition</a></li>
+  <li><a href="">Inheritence in Rectangle</a></li>
+  <li><a href="">Multilevel Inheritence of Student Marklist</a></li>
+  <li><a href="">Percentage of Student</a></li>
+  <li><a href="">Programmer Information</a></li>
+  <li><a href="">Rectangle</a></li>
+  <li><a href="">Single Level Inheritence</a></li>
+  <li><a href="">Square and Cube</a></li>
 </ol>
