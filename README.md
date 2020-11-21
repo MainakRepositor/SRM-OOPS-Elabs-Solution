@@ -141,3 +141,38 @@
 </ol>
 
 <hr>
+
+### STL
+
+<ol>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/9.STL/Address%20Map.cpp">Address Map</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/9.STL/Marks%20and%20Vector.cpp">Marks and Vector</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/9.STL/Play%20with%20Permutations.cpp">Play with Permutations</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/9.STL/Play%20with%20Streams.cpp">Play with Streams</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/9.STL/Programmer.cpp">Programmer</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/9.STL/Remove%20Duplicate.cpp">Remove Duplicate</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/9.STL/Sort%20Game.cpp">Sort Game</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/9.STL/Swapping%20two%20Functions.cpp">Swapping two Functions</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/9.STL/Vector%20Iterator.cpp">Vector Iterator</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/9.STL/Vector%20to%20Heap.cpp">Vector to Heap</a></li>
+  </ol>
+  
+ <hr>
+ 
+ ### IO Streams
+ 
+ <ol>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/10.%20IO%20Streams/IOST1.cpp">IOST1</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/10.%20IO%20Streams/IOST2.cpp">IOST2</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/10.%20IO%20Streams/IOST3.cpp">IOST3</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/10.%20IO%20Streams/IOST4.cpp">IOST4</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/10.%20IO%20Streams/IOST5.cpp">IOST5</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/10.%20IO%20Streams/IOST7.cpp">IOST7</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/10.%20IO%20Streams/IOST8.cpp">IOST8</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/10.%20IO%20Streams/IOST12.cpp">IOST12</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/10.%20IO%20Streams/IOST14.cpp">IOST14</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/10.%20IO%20Streams/IOST15.cpp">IOST15</a></li>
+</ol>
+
+#### ALL THE BEST 👍🏻
+<hr>
