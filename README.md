@@ -89,9 +89,9 @@
   <li><a href="">Square and Cube</a></li>
 </ol>
 
-### Abstract Class, Virtual Class and Friend Function
-
 <hr>
+
+### Abstract Class, Virtual Class and Friend Function
 
 <ol>
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/6.Abstract%20Class%2C%20Virtual%20Function%20and%20Friend%20Function/Difference%20%20Problem.cpp">Difference Problem</a></li>
@@ -106,3 +106,38 @@
   <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/6.Abstract%20Class%2C%20Virtual%20Function%20and%20Friend%20Function/Varun%20and%20his%20students.cpp">Varun and his students</a></li>
   </ol>
   
+<hr>
+
+### Template
+
+<ol>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/7.Templates/Adding%20Array.cpp">Adding Array</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/7.Templates/Adding%20Numbers.cpp">Adding Numbers</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/7.Templates/Division.cpp">Division</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/7.Templates/Largest%20Number.cpp">Largest Number</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/7.Templates/Largest%20of%20Long.cpp">Largest of long</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/7.Templates/Minimum%20of%20given%20elements(Bangalore).cpp">Minimum of given elements(Bangalore)</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/7.Templates/Product%20of%20Numbers.cpp">Product of Numbers</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/7.Templates/Substraction.cpp">Substraction</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/7.Templates/Sum%20of%20Numbers.cpp">Sum of Numbers</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/7.Templates/Swap.cpp">Swap</a></li>
+</ol>
+
+<hr>
+
+### Exception Handling
+
+<ol>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/8.Exception%20Handling/Calculation.cpp">Calculation</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/8.Exception%20Handling/Check%20input.cpp">Check input</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/8.Exception%20Handling/Checking%20Valid%20Data.cpp">Check Valid Data</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/8.Exception%20Handling/Compare%20two%20string.cpp">Compare two string</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/8.Exception%20Handling/Divide%20by%20zero%20exception.cpp">Divide by zero exception</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/8.Exception%20Handling/Exceptional%20-%20Operator%20Checking.cpp">Exceptional - Operator Checking</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/8.Exception%20Handling/Lenght%20of%20string.cpp">Length of string</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/8.Exception%20Handling/Number%20Exception.cpp">Number Exception</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/8.Exception%20Handling/Reverse%20-%20Array%20Exceptions.cpp">Reverse - Array Exception</a></li>
+  <li><a href="https://raw.githubusercontent.com/MainakRepositor/SRM-OOPS-Elabs-Solution/master/8.Exception%20Handling/User%20defined%20exception%20-%20Division.cpp">User defined exception - Division</a></li>
+</ol>
+
+<hr>
