@@ -88,3 +88,21 @@
   <li><a href="">Single Level Inheritence</a></li>
   <li><a href="">Square and Cube</a></li>
 </ol>
+
+### Abstract Class, Virtual Class and Friend Function
+
+<hr>
+
+<ol>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  </ol>
+  
